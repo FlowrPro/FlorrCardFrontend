@@ -1,0 +1,24 @@
+{
+  "name": "florr-card-io-frontend-flat",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.46.1",
+    "socket.io-client": "4.7.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "clsx": "2.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.5",
+    "@types/react-dom": "18.3.2",
+    "typescript": "5.6.3",
+    "vite": "5.4.8",
+    "@vitejs/plugin-react": "4.3.2"
+  }
+}
